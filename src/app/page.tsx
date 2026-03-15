@@ -137,13 +137,13 @@ export default function LandingPage() {
           textboxLayout="default"
           products={[
             {
-              id: "dish-1",              name: "Pan-Seared Branzino",              price: "₹850",              variant: "With seasonal vegetables & citrus beurre blanc",              imageSrc: "http://img.b2bpic.net/free-photo/top-view-little-cookie-pastries-inside-plate-light-table-cake-biscuit-sugar-sweet-pastry-bake_140725-24490.jpg",              imageAlt: "Pan-seared branzino with vegetables"
+              id: "dish-1",              name: "Pan-Seared Branzino",              price: "₹850",              variant: "With seasonal vegetables & citrus beurre blanc",              imageSrc: "http://img.b2bpic.net/free-photo/top-view-little-cookie-pastries-inside-plate-light-table-cake-biscuit-sugar-sweet-pastry-bake_140725-24490.jpg?_wi=1",              imageAlt: "Pan-seared branzino with vegetables"
             },
             {
-              id: "dish-2",              name: "Herb-Crusted Lamb Chops",              price: "₹1200",              variant: "Served with mint chimichurri & roasted potatoes",              imageSrc: "http://img.b2bpic.net/free-photo/top-view-little-cookie-pastries-inside-plate-light-table-cake-biscuit-sugar-sweet-pastry-bake_140725-24490.jpg",              imageAlt: "Herb-crusted lamb chops"
+              id: "dish-2",              name: "Herb-Crusted Lamb Chops",              price: "₹1200",              variant: "Served with mint chimichurri & roasted potatoes",              imageSrc: "http://img.b2bpic.net/free-photo/top-view-little-cookie-pastries-inside-plate-light-table-cake-biscuit-sugar-sweet-pastry-bake_140725-24490.jpg?_wi=2",              imageAlt: "Herb-crusted lamb chops"
             },
             {
-              id: "dish-3",              name: "Mushroom Risotto",              price: "₹650",              variant: "With truffle oil & parmesan crisps",              imageSrc: "http://img.b2bpic.net/free-photo/top-view-little-cookie-pastries-inside-plate-light-table-cake-biscuit-sugar-sweet-pastry-bake_140725-24490.jpg",              imageAlt: "Creamy mushroom risotto"
+              id: "dish-3",              name: "Mushroom Risotto",              price: "₹650",              variant: "With truffle oil & parmesan crisps",              imageSrc: "http://img.b2bpic.net/free-photo/top-view-little-cookie-pastries-inside-plate-light-table-cake-biscuit-sugar-sweet-pastry-bake_140725-24490.jpg?_wi=3",              imageAlt: "Creamy mushroom risotto"
             }
           ]}
           gridVariant="three-columns-all-equal-width"
@@ -163,13 +163,13 @@ export default function LandingPage() {
           textboxLayout="default"
           blogs={[
             {
-              id: "gallery-1",              category: "Interior Design",              title: "Main Dining Hall",              excerpt: "Elegant interior with modern furnishings, warm ambient lighting, and spacious seating arrangements.",              imageSrc: "http://img.b2bpic.net/free-photo/event-hall-wooden-table-with-rustic-chairs_114579-2233.jpg",              imageAlt: "Main dining hall",              authorName: "Guddu Lounge",              authorAvatar: "http://img.b2bpic.net/free-photo/portrait-professional-businesswoman-indoors_23-2148824826.jpg",              date: "Signature Space"
+              id: "gallery-1",              category: "Interior Design",              title: "Main Dining Hall",              excerpt: "Elegant interior with modern furnishings, warm ambient lighting, and spacious seating arrangements.",              imageSrc: "http://img.b2bpic.net/free-photo/event-hall-wooden-table-with-rustic-chairs_114579-2233.jpg?_wi=1",              imageAlt: "Main dining hall",              authorName: "Guddu Lounge",              authorAvatar: "http://img.b2bpic.net/free-photo/portrait-professional-businesswoman-indoors_23-2148824826.jpg",              date: "Signature Space"
             },
             {
               id: "gallery-2",              category: "Bar Experience",              title: "Craft Cocktail Bar",              excerpt: "Premium bar featuring skilled mixologists, curated spirits, and artistic cocktail presentations.",              imageSrc: "http://img.b2bpic.net/free-photo/full-shot-senior-woman-talking-phone_23-2149357069.jpg",              imageAlt: "Craft cocktail bar",              authorName: "Guddu Lounge",              authorAvatar: "http://img.b2bpic.net/free-photo/closeup-handsome-young-office-worker-glasses-suit-smiling-camera-looking-happy-white_1258-173667.jpg",              date: "Mixology Hub"
             },
             {
-              id: "gallery-3",              category: "Private Dining",              title: "Private Event Spaces",              excerpt: "Exclusive rooms perfect for intimate gatherings, corporate events, and special celebrations.",              imageSrc: "http://img.b2bpic.net/free-photo/event-hall-wooden-table-with-rustic-chairs_114579-2233.jpg",              imageAlt: "Private dining room",              authorName: "Guddu Lounge",              authorAvatar: "http://img.b2bpic.net/free-photo/portrait-young-business-lady_1163-3171.jpg",              date: "Event Ready"
+              id: "gallery-3",              category: "Private Dining",              title: "Private Event Spaces",              excerpt: "Exclusive rooms perfect for intimate gatherings, corporate events, and special celebrations.",              imageSrc: "http://img.b2bpic.net/free-photo/event-hall-wooden-table-with-rustic-chairs_114579-2233.jpg?_wi=2",              imageAlt: "Private dining room",              authorName: "Guddu Lounge",              authorAvatar: "http://img.b2bpic.net/free-photo/portrait-young-business-lady_1163-3171.jpg",              date: "Event Ready"
             }
           ]}
           carouselMode="buttons"
